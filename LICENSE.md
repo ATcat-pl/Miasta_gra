@@ -1,3 +1,5 @@
+Copyright (c) ATcat-pl 2021.
+
 pl
 LICENCJA
 
